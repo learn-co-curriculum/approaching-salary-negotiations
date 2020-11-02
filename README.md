@@ -4,15 +4,7 @@ When negotiating a higher base salary, provide the employer with evidence of why
 
 These sites offer plenty of data for the various locations throughout the country, as salaries can vary between different markets.  
 
-Negotiating salary can feel uncomfortable at first, but like any new skill, it becomes easier with practice. Rehearse saying different ranges aloud, including ones that feel “high” to you. Talking about money can feel awkward, and the more confident you can become articulating what feel like high numbers, the more confident you’ll be during an actual negotiation. Keep in mind that many employers expect candidates to negotiate and will make the initial offer deliberately lower than they expect the candidate to accept. It’s all just part of the process. Example:
- 
-> Hi John -
-
-> I wanted to thank you again for the incredible offer to work for Giant Machines. I had some time to review the offer letter in detail, and had a few clarification questions. Would you be available at some point this afternoon for a quick call to review the specifics?
-
-> I appreciate your time!
-
-> Nicole
+Negotiating salary can feel uncomfortable at first, but like any new skill, it becomes easier with practice. Rehearse saying different ranges aloud, including ones that feel “high” to you. Talking about money can feel awkward, and the more confident you can become articulating what feel like high numbers, the more confident you’ll be during an actual negotiation. Keep in mind that many employers expect candidates to negotiate and will make the initial offer deliberately lower than they expect the candidate to accept. It’s all just part of the process.
  
 When approaching the negotiation conversation with an employer, focus on three main aspects:
 
@@ -42,6 +34,6 @@ After you’ve accepted, the employer may take the final steps of an employment 
 - [Negotiating Compensation for a Job at a Startup](https://www.monster.com/career-advice/article/negotiating-compensation-startup)
 - [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle#market)
 - [5 Questions You Should Ask Before Accepting a Startup Job Offer](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-- [The Ultimate Guide to Salary Negotiation for Designers](https://theblog.adobe.com/ultimate-guide-salary-negotiation-designers/)
+- [The Ultimate Guide to Salary Negotiation for Designers](https://xd.adobe.com/ideas/career-tips/ultimate-guide-salary-negotiation-designers/)
 - [Designer's Guide to Joining a Startup](https://designerfund.com/bridge/a-designers-guide-to-joining-a-startup/)
 

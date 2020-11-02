@@ -4,15 +4,7 @@ When negotiating a higher base salary, provide the employer with evidence of why
 
 These sites offer plenty of data for the various locations throughout the country, as salaries can vary between different markets.  
 
-Negotiating salary can feel uncomfortable at first, but like any new skill, it becomes easier with practice. Rehearse saying different ranges aloud, including ones that feel “high” to you. Talking about money can feel awkward, and the more confident you can become articulating what feel like high numbers, the more confident you’ll be during an actual negotiation. Keep in mind that many employers expect candidates to negotiate and will make the initial offer deliberately lower than they expect the candidate to accept. It’s all just part of the process. Example:
- 
-> Hi John -
-
-> I wanted to thank you again for the incredible offer to work for Giant Machines. I had some time to review the offer letter in detail, and had a few clarification questions. Would you be available at some point this afternoon for a quick call to review the specifics?
-
-> I appreciate your time!
-
-> Nicole
+Negotiating salary can feel uncomfortable at first, but like any new skill, it becomes easier with practice. Rehearse saying different ranges aloud, including ones that feel “high” to you. Talking about money can feel awkward, and the more confident you can become articulating what feel like high numbers, the more confident you’ll be during an actual negotiation. Keep in mind that many employers expect candidates to negotiate and will make the initial offer deliberately lower than they expect the candidate to accept. It’s all just part of the process.
  
 When approaching the negotiation conversation with an employer, focus on three main aspects:
 

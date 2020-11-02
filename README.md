@@ -34,6 +34,6 @@ After you’ve accepted, the employer may take the final steps of an employment 
 - [Negotiating Compensation for a Job at a Startup](https://www.monster.com/career-advice/article/negotiating-compensation-startup)
 - [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle#market)
 - [5 Questions You Should Ask Before Accepting a Startup Job Offer](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-- [The Ultimate Guide to Salary Negotiation for Designers](https://theblog.adobe.com/ultimate-guide-salary-negotiation-designers/)
+- [The Ultimate Guide to Salary Negotiation for Designers](https://xd.adobe.com/ideas/career-tips/ultimate-guide-salary-negotiation-designers/)
 - [Designer's Guide to Joining a Startup](https://designerfund.com/bridge/a-designers-guide-to-joining-a-startup/)
 
